@@ -1,5 +1,6 @@
 # AnalyzeMCP
-![AnalyzeMCP Logo](Logo.png)
+
+![AnalyzeMCP Logo](Logo.jpg)
 
  Website：https://www.analyzemcp.world
  X:https://x.com/AnalyzeMCP
